@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishnuNKrishnan.
 - 👀 I’m a self taught coder. I enjoy creating elegant solutions to daily life problems that make our lives a tad bit easier.
-- 🌱 I’m currently learning react.js. I'm an expert in PHP.
+- 🌱 I’m currently building my expertise on React and Node.
 - 💞️ I’m looking to collaborate on challenging front end development projects.
 - 📫 I'm always available on LinkedIn, at vishnu-n-krishnan.
 
